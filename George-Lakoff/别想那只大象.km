@@ -1,0 +1,148 @@
+{
+    "root": {
+        "data": {
+            "id": "cgi30ajph940",
+            "created": 1639795546657,
+            "text": "《别想那只大象》乔治.莱考夫",
+            "background": "#73a1bf",
+            "color": "#ffffff"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cgi33vny5s80",
+                    "created": 1639795827718,
+                    "text": "核心论点",
+                    "layout_fish-bone-master_offset": {
+                        "x": 141,
+                        "y": -60
+                    },
+                    "layout_tianpan_offset": {
+                        "x": 4,
+                        "y": 132
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgi343pawf40",
+                    "created": 1639795845214,
+                    "text": "代表作",
+                    "layout_tianpan_offset": {
+                        "x": -62,
+                        "y": 66
+                    },
+                    "layout_mind_offset": {
+                        "x": -4,
+                        "y": 59
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgi36u4kl1c0",
+                            "created": 1639796059462,
+                            "text": "《乔治·莱考夫认知语言学十讲》"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgi3aipwqpk0",
+                            "created": 1639796348088,
+                            "text": "《女人、火与危险事物》"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgi3bqhsfs80",
+                            "created": 1639796443375,
+                            "text": "《道德政治》"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cgi349jebns0",
+                    "created": 1639795857918,
+                    "text": "背景",
+                    "layout_mind_offset": {
+                        "x": -434,
+                        "y": -250
+                    },
+                    "layout_fish-bone-master_offset": {
+                        "x": -157,
+                        "y": -10
+                    },
+                    "note": "\n### 认知语言学内容\n\n**认知语言学** 的核心内容以及它的历史发展、与其他学科的交叉、最新动态及未来趋势\n\n认知语言学的主要创始人\n\n加州大学伯克利分校的语言学系教授"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgi3c0usdy80",
+                            "created": 1639796465929,
+                            "text": "认知语言学的主要创始人",
+                            "layout_left_offset": {
+                                "x": -396,
+                                "y": -85
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cgi3c3etpog0",
+                            "created": 1639796471494,
+                            "text": "加州大学伯克利分校的语言学系教授",
+                            "layout_left_offset": {
+                                "x": -434,
+                                "y": -85
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cgi34exbzao0",
+                    "created": 1639795869645,
+                    "text": "队友和门徒",
+                    "layout_mind_offset": {
+                        "x": 79,
+                        "y": -28
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cgi34o0na7k0",
+                    "created": 1639795889436,
+                    "text": "对手",
+                    "layout_mind_offset": {
+                        "x": 2,
+                        "y": 67
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cgi383rcoo00",
+                            "created": 1639796158796,
+                            "text": "乔姆斯基"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
